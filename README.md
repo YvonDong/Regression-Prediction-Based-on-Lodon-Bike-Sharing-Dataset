@@ -34,3 +34,6 @@ The two files are both seperated from file "london_merged.csv".<br>
 ## Description about Program Files "Bike_Share_Data_Analysis.py" & "Bike_Share_Prediction.py"
 * "Bike_Share_Data_Analysis.py" is a program to analyze the data file "london_merged.csv".<br>
 * "Bike_Share_Prediction.py" is a program to make predictions based on data files "train_data.csv" and "test_data".<br>
+
+## Description about PDF File "Regression Prediction Based on London Bike Sharing Dataset.pdf"
+It is a report of my whole working process on data analysis and processing, model training and making predictions. <br>
