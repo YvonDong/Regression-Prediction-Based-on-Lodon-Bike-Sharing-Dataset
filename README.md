@@ -1,5 +1,5 @@
 # Regression-Prediction-Based-on-Lodon-Bike-Sharing-Dataset
-A Project for Pattern Recongnition Course
+A Project for Pattern Recongnition Course<br>
 data description：
 "timestamp" - timestamp field for grouping the data 
 "cnt" - the count of a new bike shares 
