@@ -1,6 +1,8 @@
 # Regression-Prediction-Based-on-Lodon-Bike-Sharing-Dataset
-*This is mainly a project for pattern recongnition course based on London Bike Sharing Dataset.Main purpose of the project is to predict the future bike shares. Therefore, two types od regression method are introduced in this project to do the regression work. One is Ridge regression and the other is Random Forest Regression.<br>
-data description：<br>
+
+**This is mainly a project for pattern recongnition course based on London Bike Sharing Dataset.Main purpose of the project is to predict the future bike shares. Therefore, two types od regression method are introduced in this project to do the regression work. One is Ridge regression and the other is Random Forest Regression.<br>**
+
+* data description：<br>
 "timestamp" - timestamp field for grouping the data <br>
 "cnt" - the count of a new bike shares<br>
 "t1" - real temperature in C<br>
@@ -12,7 +14,7 @@ data description：<br>
 "is_weekend" - boolean field - 1 if the day is weekend <br>
 "season" - category field meteorological seasons: 0-spring ; 1-summer; 2-fall; 3-winter.<br>
 
-"weathe_code" category description:<br> 
+* "weathe_code" category description:<br> 
 1 = Clear ; mostly clear but have some values with haze/fog/patches of fog/ fog in vicinity<br> 
 2 = scattered clouds / few clouds<br> 
 3 = Broken clouds<br> 
