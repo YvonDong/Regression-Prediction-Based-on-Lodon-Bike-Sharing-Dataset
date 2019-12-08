@@ -1,4 +1,4 @@
-# Regression-Prediction-Based-on-Lodon-Bike-Sharing-Dataset
+# Regression-Prediction-Based-on-London-Bike-Sharing-Dataset
 
 **This is mainly a project for pattern recongnition course based on London Bike Sharing Dataset.Main purpose of the project is to predict the future bike shares. Therefore, two types od regression method are introduced in this project to do the regression work. One is Ridge regression and the other is Random Forest Regression.<br>**
 
