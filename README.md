@@ -3,9 +3,9 @@
 **This is mainly a project for pattern recongnition course based on London Bike Sharing Dataset.Main purpose of the project is to predict the future bike shares. Therefore, two types od regression method are introduced in this project to do the regression work. One is Ridge regression and the other is Random Forest Regression.<br>**
 
 ## Description about Data File "london_merged.csv"
-The following information is contained in file "data description.txt".
-* data description：<br>
-"timestamp" - timestamp field for grouping the data <br>
+The following information is contained in file "data description.txt".<br>
+* data description<br>
+"timestamp" - timestamp field for grouping the data<br>
 "cnt" - the count of a new bike shares<br>
 "t1" - real temperature in C<br>
 "t2" - temperature in C "feels like"<br>
@@ -27,10 +27,10 @@ The following information is contained in file "data description.txt".
 94 = Freezing Fog<br>
 
 ## Description about Data Files "train_data.csv" & "test_data"
-The two files are both seperated from file "london_merged.csv".
-"train_data.csv" is data file between 2015/01/04 and 2016/01/03.
-"test_data.csv" is data file between 2016/01/04 and 2017/01/03.
+The two files are both seperated from file "london_merged.csv".<br>
+* "train_data.csv" is data file between 2015/01/04 and 2016/01/03.<br>
+* "test_data.csv" is data file between 2016/01/04 and 2017/01/03.<br>
 
 ## Description about Program Files "Bike_Share_Data_Analysis.py" & "Bike_Share_Prediction.py"
-"Bike_Share_Data_Analysis.py" is a program to analyze the data file "london_merged.csv".
-"Bike_Share_Prediction.py" is a program to make predictions based on data files "train_data.csv" and "test_data".
+* "Bike_Share_Data_Analysis.py" is a program to analyze the data file "london_merged.csv".<br>
+* "Bike_Share_Prediction.py" is a program to make predictions based on data files "train_data.csv" and "test_data".<br>
